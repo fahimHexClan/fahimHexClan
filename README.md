@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimhexclan&label=Profile%20views&color=0e75b6&style=flat" alt="fahimhexclan" /> </p>
 
-- 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/fahimhexclan/Python-4-DevOps)
-
 - 🌱 I’m currently learning **Hibernate**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fahimhexclan](https://github.com/fahimhexclan)
