@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Fahim</h1>
-<div align="center"> <img src="https://img.freepik.com/free-vector/teamwork-characters-front-large-glowing-screen-presentations-wall_33099-1618.jpg?w=996&t=st=1706605954~exp=1706606554~hmac=754b8f1bbebac0fd70f1ab2de788bab9696fb6908f84500d9550754413995f92"> </div>
+<div align="center"> <img src="PurpleandBlueNeonLightAnimatedSocialMedia-ezgif.com-crop.gif"> </div>
 <h3 align="center">A passionate full-stack developer from Srilanka. </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
