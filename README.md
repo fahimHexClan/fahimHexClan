@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Fahim</h1>
-<div align="center"> <img width="1200" height="400" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp"> </div>
+<div align="center"> <img width="1200" height="300" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp"> </div>
 <h3 align="center">A passionate full-stack developer from Sri Lanka. </h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1706607068~exp=1706610668~hmac=8952bbbfb77117da0a5c5979e681483fbc162665ef6c9c0546c8cd4567d2dae8&w=1380">
 
