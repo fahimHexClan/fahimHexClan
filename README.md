@@ -1,9 +1,9 @@
 <h1 align="center">Hey Everyone 👋, I'm Fahim</h1>
 <div align="center"> <img src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?size=626&ext=jpg&uid=R119196058&ga=GA1.1.434670700.1705912622&semt=ais"> </div>
-<h3 align="center">A passionate full-stack developer from Srilanka. </h3>
+<h3 align="center">A passionate full-stack developer from Sri Lanka. </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?size=626&ext=jpg&uid=R119196058&ga=GA1.1.434670700.1705912622&semt=ais" /> </p>
+<p align="left"> <img src="" /> </p>
 
 - 🌱 I’m currently learning **Hibernate**
 
