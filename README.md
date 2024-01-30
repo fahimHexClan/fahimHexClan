@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Fahim</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/fahimhexclan/fahimhexclan/main/banner-3.png"> </div>
+<div align="center"> <img src="[https://raw.githubusercontent.com/fahimhexclan/fahimhexclan/main/banner-3.png](https://www.canva.com/design/DAF7WZ0BQmA/fm_tYI5gRZIKmG0CmAqo6Q/edit?utm_content=DAF7WZ0BQmA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"> </div>
 <h3 align="center">A passionate full-stack developer from Srilanka. </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
