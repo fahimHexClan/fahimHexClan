@@ -3,7 +3,9 @@
 <h3 align="center">A passionate full-stack developer from Sri Lanka. </h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1706607068~exp=1706610668~hmac=8952bbbfb77117da0a5c5979e681483fbc162665ef6c9c0546c8cd4567d2dae8&w=1380">
 
-<p align="left"> <img src="" /> </p>
+
+<p align="left"> <img src="![Profile Views](https://komarev.com/ghpvc/?username=fahimhexclan&color=green)
+" /> </p>
 
 - 🌱 I’m currently learning **Hibernate**
 
