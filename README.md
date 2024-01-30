@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Fahim</h1>
-<div align="center"> <img src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?size=626&ext=jpg&uid=R119196058&ga=GA1.1.434670700.1705912622&semt=ais"> </div>
+<div align="center"> <img src="https://img.freepik.com/free-vector/workplace-with-computer-table_33099-1739.jpg?w=996&t=st=1706606870~exp=1706607470~hmac=de125ee8e95b993dd6231e134dd1e0e387e99c95aabfc0bc1d590a3adcb8ec0b"> </div>
 <h3 align="center">A passionate full-stack developer from Sri Lanka. </h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/workplace-with-computer-table_33099-1739.jpg?w=996&t=st=1706606870~exp=1706607470~hmac=de125ee8e95b993dd6231e134dd1e0e387e99c95aabfc0bc1d590a3adcb8ec0b">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1706607068~exp=1706610668~hmac=8952bbbfb77117da0a5c5979e681483fbc162665ef6c9c0546c8cd4567d2dae8&w=1380">
 
 <p align="left"> <img src="" /> </p>
 
