@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Fahim</h1>
 <div align="center"> <img width="1200" height="300" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp"> </div>
 <h3 align="center">A passionate full-stack developer from Sri Lanka. </h3>
-<img align="right" alt="Coding" width="400" src="https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&dpr=1&w=1920">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
 
