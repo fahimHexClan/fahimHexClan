@@ -1,6 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Fahim</h1>
+<h2 align="center">A passionate full-stack developer from Sri Lanka. </h2>
 <div align="center"> <img width="1200" height="300" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp"> </div>
-<h3 align="center">A passionate full-stack developer from Sri Lanka. </h3>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=435&height=45&lines=%E2%99%A5%EF%B8%8FFahim%E2%99%A5%EF%B8%8F;%F0%9F%92%BB+Programmer+%F0%9F%92%BB;%F0%9F%95%B9%EF%B8%8F+Game+Developer+%F0%9F%95%B9%EF%B8%8F;%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB+Trainer+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;%F0%9F%8F%86%F0%9F%A5%87%F0%9F%A5%88%F0%9F%A5%89%F0%9F%8F%85%F0%9F%8E%96%EF%B8%8F%F0%9F%8F%86" alt="Typing SVG">
 </div>
