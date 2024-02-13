@@ -1,41 +1,82 @@
-@keyframes fadeIn {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fahim's GitHub Profile</title>
+<style>
+  /* Define keyframes for the animations */
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
   }
 
-  /* Apply the animation to the elements */
-  h1, h3, img {
+  @keyframes slideInLeft {
+    from { transform: translateX(-100%); }
+    to { transform: translateX(0); }
+  }
+
+  @keyframes slideInRight {
+    from { transform: translateX(100%); }
+    to { transform: translateX(0); }
+  }
+
+  /* Apply animations to elements */
+  h1, h3, #leftImage, #rightImage {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+  }
+
+  h1, h3 {
+    animation-name: fadeIn;
+  }
+
+  #leftImage {
+    animation-name: slideInLeft;
+  }
+
+  #rightImage {
+    animation-name: slideInRight;
+  }
+
+  /* Add additional styles */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+  }
+
+  h1 {
     text-align: center;
-    animation: fadeIn 1s ease-out;
   }
 
-  /* Add additional styles for the images */
-  img {
-    display: block;
+  h3 {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  .profile-view-counter {
     margin-left: auto;
-    margin-right: auto;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  }
-
-  
-  img:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease;
   }
 </style>
+</head>
+<body>
 <h1>Hey Everyone 👋, I'm Fahim</h1>
-<div> <img width="1200" height="300" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp"> </div>
-<h3>A passionate full-stack developer from Sri Lanka. </h3>
-<img alt="Coding" width="400" src="https://images.unsplash.com/photo-1596003906949-67221c37965c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU5fHxjb2Rpbmd8ZW58MHx8MHx8fDA%3D">
-
-
-
-
+<div class="container">
+  <div id="leftImage"> <img width="300" height="300" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp"> </div>
+  <div>
+    <h3>A passionate full-stack developer from Sri Lanka.</h3>
+    <img alt="Coding" width="200" src="https://images.unsplash.com/photo-1596003906949-67221c37965c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU5fHxjb2Rpbmd8ZW58MHx8MHx8fDA%3D">
+  </div>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimhexclan&label=Profile%20views&color=0e75b6&style=flat" alt="fahimhexclan" /> </p>
 
 - 🌱 I’m currently learning **Hibernate**
@@ -62,3 +103,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fahimhexclan&limit=5&theme=flat&combine_all_yearly_contributions=true)
+</body>
+</html>
