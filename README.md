@@ -5,7 +5,7 @@
 <div align="center"> <img width="1200" height="300" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp"> </div>
 <h2 align="center">A passionate full-stack developer from Sri Lanka. </h2>
 
-<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1596003906949-67221c37965c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU5fHxjb2Rpbmd8ZW58MHx8MHx8fDA%3D">
+<img align="right" alt="Coding" width="400" height="600" src="https://images.unsplash.com/photo-1596003906949-67221c37965c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU5fHxjb2Rpbmd8ZW58MHx8MHx8fDA%3D">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimhexclan&label=Profile%20views&color=0e75b6&style=flat" alt="fahimhexclan" /> </p>
