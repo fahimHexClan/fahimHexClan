@@ -62,13 +62,13 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
-</p>
+</p><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimhexclan&show_icons=true&locale=en&layout=compact" alt="fahimhexclan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimhexclan&show_icons=true&locale=en&layout=compact" alt="fahimhexclan" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahimhexclan&show_icons=true&locale=en" alt="fahimhexclan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahimhexclan&show_icons=true&locale=en" alt="fahimhexclan" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimhexclan&" alt="fahimhexclan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimhexclan&" alt="fahimhexclan" /></p><br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fahimhexclan&limit=5&theme=flat&combine_all_yearly_contributions=true)
