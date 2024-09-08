@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimhexclan&label=Profile%20views&color=0e75b6&style=flat" alt="fahimhexclan" /> </p>
 
-- 🌱 I’m currently learning **Hibernate**
+- 🌱 I’m currently learning **python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fahimhexclan](https://github.com/fahimhexclan)
 
